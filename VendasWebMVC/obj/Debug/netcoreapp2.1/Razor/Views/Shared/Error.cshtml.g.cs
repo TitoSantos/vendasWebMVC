@@ -19,12 +19,12 @@ using VendasWebMVC;
 #line default
 #line hidden
 #line 2 "D:\CursoC#\VendasWebMVC\VendasWebMVC\Views\_ViewImports.cshtml"
-using VendasWebMVC.Models;
+using VendasWebMVC.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4aa7534cd9a00ebe511ade4d5027d4926a9075aa", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6a24f1191c9edc3da66bd1a316e0605c5c710888", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

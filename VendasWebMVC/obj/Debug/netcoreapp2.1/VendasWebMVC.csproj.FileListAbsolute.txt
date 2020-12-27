@@ -8,10 +8,8 @@ D:\CursoC#\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\VendasWebMVC.dll
 D:\CursoC#\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\VendasWebMVC.pdb
 D:\CursoC#\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\VendasWebMVC.Views.dll
 D:\CursoC#\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\VendasWebMVC.Views.pdb
-D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csprojAssemblyReference.cache
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.AssemblyInfoInputs.cache
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.AssemblyInfo.cs
-D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CoreCompileInputs.cache
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.RazorAssemblyInfo.cache
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.RazorAssemblyInfo.cs
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.TagHelpers.input.cache
@@ -34,3 +32,6 @@ D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.dll
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.pdb
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.genruntimeconfig.cache
 D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CopyComplete
+D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csprojAssemblyReference.cache
+D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CoreCompileInputs.cache
+D:\CursoC#\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
