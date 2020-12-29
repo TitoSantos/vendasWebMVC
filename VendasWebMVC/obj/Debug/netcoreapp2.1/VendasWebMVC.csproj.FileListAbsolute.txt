@@ -11,7 +11,6 @@ E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\Ven
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csprojAssemblyReference.cache
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.AssemblyInfoInputs.cache
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.AssemblyInfo.cs
-E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CoreCompileInputs.cache
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.RazorAssemblyInfo.cache
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.RazorAssemblyInfo.cs
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.TagHelpers.input.cache
@@ -34,3 +33,11 @@ E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Ven
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.pdb
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.genruntimeconfig.cache
 E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CopyComplete
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Create.cshtml.g.cs
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Delete.cshtml.g.cs
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
+E:\Backup\CursoC#\Projects\vendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\VendasWebMVC.csproj.CoreCompileInputs.cache
